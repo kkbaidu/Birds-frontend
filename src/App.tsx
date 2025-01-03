@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Toaster } from "react-hot-toast";
 import { BirdTable } from "./components/bird-table";
 import BirdDetailModal from "./components/bird-detail-modal";
